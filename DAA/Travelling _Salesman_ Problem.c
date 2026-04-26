@@ -1,3 +1,6 @@
+Aim :   To implement and solve the Travelling Salesman Problem uses an appropriate algorithm in order to determine the 
+        shortest possible route that visits each city exactly once and returns to the starting city.
+    
 #include<stdio.h>
 #include<limits.h>
 #define MAXN 15
